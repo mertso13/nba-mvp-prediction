@@ -1,0 +1,22 @@
+datasets/combined_stats_final.csv
+models/xgb_mvp_model.pkl
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*env/
+*venv/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
