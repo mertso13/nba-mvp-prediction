@@ -1,5 +1,6 @@
 datasets/combined_stats_final.csv
 models/xgb_mvp_model.pkl
+datasets/per_100_pos_stats.csv
 
 # Python
 __pycache__/
@@ -16,7 +17,9 @@ __pycache__/
 # IDE / Editor
 .vscode/
 .idea/
+.github
 
 # OS generated files
 .DS_Store
 Thumbs.db
+
