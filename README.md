@@ -1,10 +1,10 @@
 # NBA MVP Prediction
 
-A machine learning project that predicts NBA Most Valuable Player (MVP) award winners using a two-stage modeling approach with 93% accuracy.
+A machine learning project that predicts NBA Most Valuable Player (MVP) award winners using a two-stage modeling approach with 95% accuracy.
 
 ## Project Overview
 
-This project aims to predict NBA MVP award winners using player statistics and advanced metrics. By analyzing historical data from 1983 onwards, the model achieves **93% accuracy** in predicting the exact MVP winner and **95% accuracy** in placing the actual MVP within the top 3 candidates.
+This project aims to predict NBA MVP award winners using player statistics and advanced metrics. By analyzing historical data from 1983 onwards, the model achieves **95% accuracy** in predicting the exact MVP winner and **98% accuracy** in placing the actual MVP within the top 3 candidates.
 
 ## Data Sources
 
@@ -45,8 +45,8 @@ This approach mimics the actual MVP selection process (first identifying worthy 
 
 ## Performance
 
-- **Top-1 Accuracy**: 93% (correctly identified 40 of 43 MVPs in test data)
-- **Top-3 Accuracy**: 95% (placed actual MVP in top 3 for 41 of 43 seasons)
+- **Top-1 Accuracy**: 95% (correctly identified 40 of 42 MVPs in test data)
+- **Top-3 Accuracy**: 98% (placed actual MVP in top 3 for 41 of 42 seasons)
 
 ## Requirements
 
